@@ -1,2 +1,14 @@
-# Comp-484-Project-1
-This is the first project of the semester for my Web engineering I course. I learned some basics to html by following the guidlines to the class project. 
+# lab_instructions.txt
+
+In the text will you will find the hw instructions
+
+ヽ(๏∀๏ )ﾉ
+
+
+
+
+
+## ← intro.html
+
+pretty much the index.html 
+
